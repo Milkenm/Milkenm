@@ -5,7 +5,7 @@ This is full of garbage... just kidding... I guess...<br/>
 Anyway,<br/>
 I know a little about C# from school and a lot from random StackOverflow questions, and, uh, ... (almost) every program is safe to use, I think...<br/>
 <br/>
-Oh don't forget to join my amazing Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](https://discord.gg/xRyvAps) where nothing happens but has a announcement channel with free games if you want...<br/>
+Oh don't forget to join my amazing Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](https://discord.gg/xRyvAps) where nothing happens but has an announcement channel with free games if you want...<br/>
 <br/>
 **DISCLAIMER**<br/>
 I am not responsible for any diseases like heart attacks, loss of IQ and murder of brain cells due to prolonged look at the source code or scrolling through my GitHub.<br/>
