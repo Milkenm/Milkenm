@@ -14,5 +14,5 @@ Every project in here should not be taken, uh, seriously?, I'm just trying to le
 <br/>
 <br/>
 <p align=center>
-  <img src="https://.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb"/>
 </p>
