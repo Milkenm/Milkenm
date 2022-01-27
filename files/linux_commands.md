@@ -17,6 +17,9 @@
 ***Mudar o nome de um screen:***<br/>
 Dentro do screen clicar **`Ctrl+A`** e clicar **`:`**, e depois escrever `sessionname <novo nome>`
 
+***Scroll num screen:***<br/>
+**`CTRL+A`** e clicar **`Esc`**. Para cancelar clicar **`Esc`** denovo
+
 # Random
 ***Abrir o task manager:***<br/>
 `htop`
