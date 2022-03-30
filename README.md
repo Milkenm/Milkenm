@@ -11,7 +11,11 @@ Oh don't forget to join my amazing Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲�
 I am not responsible for any diseases like heart attacks, loss of IQ and murder of brain cells due to prolonged look at the source code or scrolling through my GitHub.<br/>
 Every project in here should not be taken, uh, seriously?, I'm just trying to learn some stuff and mess with more stuff! 😛<br/>
 <br/>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb"/>
-  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/222114807887691777?&bg=984D88"/>
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb"/>
+  </p>
+  <p>
+    <img src="https://lanyard-profile-readme.vercel.app/api/222114807887691777?&bg=984D88"/>
+  </p>
+</div>
