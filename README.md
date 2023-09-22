@@ -6,6 +6,7 @@ This is full of garbage... just kidding! I guess...<br/>
 <br/>
 Anyway,<br/>
 I know a little about C# from school and a lot from random StackOverflow questions, and, uh, ... (almost) every program is safe to use, I think... (<b>WELL EXCEPT</b> <a href="https://github.com/Milkenm/VBucksGenerator">VBucksGenerator</a>, <b>DON'T RUN IT</b>, it's nothing harmful tho, just a prank bro)<br/>
+I also know some Java (I mean, it's almost C#) and I'm using it, together with my amazing programming skilz, to make a Minecraft server. Not an #ad, but if you wanna join: mc.milkenm.net on 1.19 is the way to go. You can also try my hunger games server at hg.milkenm.net (1.19.3) ;)<br/>
 <!-- P3 -->
 <br/>
 Oh don't forget to join my amazing Discord server <a href="https://discord.gg/xRyvAps">🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀</a> where nothing happens but has an announcement channel with free games if you want...<br/>
