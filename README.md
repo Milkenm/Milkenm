@@ -8,7 +8,7 @@ Anyway,<br/>
 I know a little about C# from school and a lot from random StackOverflow questions, and, uh, ... (almost) every program is safe to use, I think... (<b>WELL EXCEPT</b> <a href="https://github.com/Milkenm/VBucksGenerator">VBucksGenerator</a>, <b>DON'T RUN IT</b>, it's nothing harmful tho, just a prank bro)<br/>
 <!-- P3 -->
 <br/>
-Oh don't forget to join my amazing Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](https://discord.gg/xRyvAps) where nothing happens but has an announcement channel with free games if you want...<br/>
+Oh don't forget to join my amazing Discord server <a href="https://discord.gg/xRyvAps">🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀</a> where nothing happens but has an announcement channel with free games if you want...<br/>
 <!-- P4 -->
 <br/>
 <b>DISCLAIMER</b><br/>
