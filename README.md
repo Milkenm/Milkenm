@@ -10,6 +10,8 @@ I also know some Java (I mean, it's almost C#) and I'm using it, together with m
 <!-- P3 -->
 <br/>
 Oh don't forget to join my amazing Discord server <a href="https://discord.gg/xRyvAps">🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀</a> where nothing happens but has an announcement channel with free games if you want...<br/>
+You can <a href="https://discord.com/api/oauth2/authorize?client_id=456022260063404033&permissions=8&scope=applications.commands%20bot">add my bot</a> Diamond 💦 to your server too, it has some random commands like /meme and /poll... you can check the source <a href="https://github.com/Milkenm/Diamond">here</a> if you want to.<br/>
+OR, even better, you can <a href="https://discordapp.com/users/222114807887691777">add me</a>! If you want to ask me something, or just want to be friends ;)<br/>
 <!-- P4 -->
 <br/>
 <b>DISCLAIMER</b><br/>
