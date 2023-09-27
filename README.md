@@ -29,3 +29,4 @@ Every project in here should not be taken, uh, seriously?, I'm just trying to le
 		<img src="https://lanyard-profile-readme.vercel.app/api/222114807887691777?&bg=984D88" width="35%"/>
 	</p>
 </div>
+<b>Lmao my code is B-</b>
