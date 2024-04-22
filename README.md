@@ -12,6 +12,11 @@ My coding projects are pretty straightforward:
 - But they work (at least on my machine)!
 - The best examples of my work are in projects like [ScriptsLib](https://github.com/Milkenm/ScriptsLib) and [Diamond](https://github.com/Milkenm/Diamond).
 
+> [!WARNING]
+> If you are, for some unknown reason, wanting to implement my projects into real applications, please don't. It will crash for sure.
+> 
+> You can, however, use them to learn **what not to do** when coding.
+
 #### 🎮 Minecraft Servers:
 I also run some Minecraft servers, made using my amazing Java skills:
 - **Pure Server** (`mc.milkenm.net` / Version **1.19**): A survival-focused server with custom items, enchantments, and more.
