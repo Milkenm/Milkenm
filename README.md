@@ -14,8 +14,8 @@ My coding projects are pretty straightforward:
 
 #### 🎮 Minecraft Servers:
 I also run some Minecraft servers, made using my Java skills:
-- **Pure Server** (mc.milkenm.net / Version 1.19): A survival-focused server with custom items, enchantments, and more.
-- **Hunger Games Legacy** (hg.milkenm.net / Version 1.19.3): Inspired by the 2014 Brazilian WinCraft server's Hunger Games. Pure survival with kits, last alive wins.
+- **Pure Server** (`mc.milkenm.net` / Version **1.19**): A survival-focused server with custom items, enchantments, and more.
+- **Hunger Games Legacy** (`hg.milkenm.net` / Version **1.19.3**): Inspired by the 2014 Brazilian WinCraft server's Hunger Games. Pure survival with kits, last alive wins.
 
 #### 💬 Discord Community:
 Join my Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](https://discord.gg/xRyvAps) for a laid-back vibe and free game announcements.
