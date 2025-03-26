@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Milkenm!
 
 #### 💻 What I Use:
-I'm familiar with C#, Java, and JavaScript. I've not ventured much into tools like Docker, Node.js or similiar since I haven’t needed them for any of my projects.
+I'm familiar with C# and Java. I'm still learning new stuff and improving my ways of coding. Even after 8+ years of doing projects, my code still looks like I've started 2 weeks ago :(
 
 #### 💽 About My Repos:
 You can browse my repositories with confidence—most of my software is safe to use. **Caution:** The [VBucksGenerator](https://github.com/Milkenm/VBucksGenerator) is an exception; **do not run it**. It’s harmless fun that changes your wallpaper and triggers a shutdown after several pop-ups.
@@ -31,7 +31,8 @@ Join my Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](h
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb" width="45%"/>
     &nbsp;
-    <img src="https://lanyard-profile-readme.vercel.app/api/222114807887691777?&bg=984D88" width="35%"/>
 </div>
+
+###### C+ so bad pls dont look :<
 
 ###### Yeah. I made this with ChatGPT. What about it?
