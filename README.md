@@ -1,38 +1,28 @@
-### 👋 Hi there! I'm Milkenm!
+![](https://github.com/Milkenm/Milkenm/blob/master/gradient-line.png?raw=true)
 
-#### 💻 What I Use:
-I'm familiar with C# and Java. I'm still learning new stuff and improving my ways of coding. Even after 8+ years of doing projects, my code still looks like I've started 2 weeks ago :(
+## *Slowlyyy improving to code...* [![wakatime](https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee.svg?style=for-the-badge&color=8932b8&label_color=3c44aa)](https://wakatime.com/@cbde32e3-2657-4826-9d6b-66b6dbd57bee)
 
-#### 💽 About My Repos:
-You can browse my repositories with confidence—most of my software is safe to use. **Caution:** The [VBucksGenerator](https://github.com/Milkenm/VBucksGenerator) is an exception; **do not run it**. It’s harmless fun that changes your wallpaper and triggers a shutdown after several pop-ups.
+*If you want to message me add `milkenm` on Discord.*
 
-My coding projects are pretty straightforward:
-- They might not be optimized.
-- Error handling? Not really there.
-- But they work (at least on my machine)!
-- The best examples of my work are in projects like [ScriptsLib](https://github.com/Milkenm/ScriptsLib) and [Diamond](https://github.com/Milkenm/Diamond).
+What I might be doing now:
+- 💤 AFKing on my Minecraft servers ([`Milkenm`](https://namemc.com/profile/Milkenm))
+- 🐀 *building a milkshake* in Transformice ([`Milkenm#1063`](https://www.cheeseformice.cc/players/Milkenm%231063))
+- 😡 Inting in League of Legends ([`Milkenm#6666`](https://dpm.lol/Milkenm-6666) on EU West)
+- 🎮 Playing random games on Steam ([`milkenm`](https://steamcommunity.com/id/milkenm/))
+- 💻 Coding random programs
+- 🌝 Or maybe sleeping...
 
-> [!WARNING]
-> If you are, for some unknown reason, wanting to implement my projects into real applications, please don't. It will crash for sure.
-> 
-> You can, however, use them to learn **what not to do** when coding.
+## My Minecraft Servers:
+| Name | Description | IP | Version | Plugin Dev. Time |
+| ---- | ----------- | -- | ------- | ---- |
+| [**Pure Legacy**](https://namemc.com/server/mc.milkenm.net) | A mess of a server where I add random stuff I want. | `mc.milkenm.net` | **1.19** | <img src="https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee/project/ce0b89b0-73fb-4cca-90a6-8fb9a1d90a99.svg?style=for-the-badge&color=8932b8&label_color=3c44aa" width="200vw"> |
+| [**Hunger Games Legacy**](https://namemc.com/server/hg.milkenm.net) | A hunger games server inspired by the long gone brazilian server WinCraft. | `hg.milkenm.net` | **1.19.3** | <img src="https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee/project/fdf57816-b6e8-4164-95f2-c68bbd4860e5.svg?style=for-the-badge&color=8932b8&label_color=3c44aa" width="200vw"> |
+| [**Bala de Casca**](https://namemc.com/server/smp.milkenm.net) | An almost vanilla server with teams and claims (*has whitelist*). | `smp.milkenm.net` | **1.21.10** | *No custom plugin* |
 
-#### 🎮 Minecraft Servers:
-I also run some Minecraft servers, made using my amazing Java skills:
-- **Pure Server** (`mc.milkenm.net` / Version **1.19**): A survival-focused server with custom items, enchantments, and more.
-- **Hunger Games Legacy** (`hg.milkenm.net` / Version **1.19.3**): Inspired by the 2014 Brazilian WinCraft server's Hunger Games. Pure survival with kits, last alive wins.
+## TO-DO:
+- [ ] Rework Pure Legacy server
+- [ ] Rework Hunger Games Classic server
+- [ ] Rework Diamond bot
+- [ ] Learn how and try to make a game
 
-#### 💬 Discord Community:
-Join my Discord server [🎀𝓒𝓱𝓲𝓵𝓵𝓲𝓷'𝓡𝓸𝓸𝓶🎀](https://discord.gg/xRyvAps) for a laid-back vibe and free game announcements.
-- Add my bot, Diamond 💦, for fun commands like `/meme` and `/poll`. [Check out the bot's source](https://github.com/Milkenm/Diamond).
-- Feel free to [add me on Discord](https://discordapp.com/users/222114807887691777) if you want to chat or ask questions!
-
-#### 📈 GitHub Stats & Discord Status:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Milkenm&bg_color=55,c24848,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&icon_color=bbb" width="45%"/>
-    &nbsp;
-</div>
-
-###### C+ so bad pls dont look :<
-
-###### Yeah. I made this with ChatGPT. What about it?
+![](https://github.com/Milkenm/Milkenm/blob/master/gradient-line.png?raw=true)
