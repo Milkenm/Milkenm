@@ -5,11 +5,13 @@
 *If you want to message me add `milkenm` on Discord.*
 
 What I might be doing now:
+- 💬 Gessing made up Wordles on Discord ([`milkenm`](http://discord.com/invite/j3xEXZn))
+- 🎶 Listening to music on Spotify ([`Milkenm`](https://open.spotify.com/user/21o27b4gkwciqbiycz5ziqava?si=2da0af86b7304ff3))
 - 💤 AFKing on my Minecraft servers ([`Milkenm`](https://namemc.com/profile/Milkenm))
 - 🐀 *building a milkshake* in Transformice ([`Milkenm#1063`](https://www.cheeseformice.cc/players/Milkenm%231063))
 - 😡 Inting in League of Legends ([`Milkenm#6666`](https://dpm.lol/Milkenm-6666) on EU West)
 - 🎮 Playing random games on Steam ([`milkenm`](https://steamcommunity.com/id/milkenm/))
-- 💻 Coding random programs
+- 💻 Coding *super usefull* programs
 - 🌝 Or maybe sleeping...
 
 ## My Minecraft Servers:
