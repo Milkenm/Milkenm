@@ -1,6 +1,6 @@
 ![](https://github.com/Milkenm/Milkenm/blob/master/gradient-line.png?raw=true)
 
-## *Slowlyyy improving to code...* [![wakatime](https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee.svg?style=for-the-badge&color=8932b8&label_color=3c44aa)](https://wakatime.com/@cbde32e3-2657-4826-9d6b-66b6dbd57bee)
+## *Slowlyyy improving to code...*
 
 *If you want to message me add `milkenm` on Discord.*
 
