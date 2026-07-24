@@ -18,7 +18,7 @@ What I might be doing now:
 | Name | Description | IP | Version | Plugin Dev. Time |
 | ---- | ----------- | -- | ------- | ---- |
 | [**Pure Legacy**](https://namemc.com/server/mc.milkenm.net) | A mess of a server where I add random stuff I want. | `mc.milkenm.net` | **1.19** | <img src="https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee/project/ce0b89b0-73fb-4cca-90a6-8fb9a1d90a99.svg?style=for-the-badge&color=8932b8&label_color=3c44aa" width="200vw"> |
-| [**Hunger Games Legacy**](https://namemc.com/server/hg.milkenm.net) | A hunger games server inspired by the long gone brazilian server WinCraft. | `hg.milkenm.net` | **1.19.3** | <img src="https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee/project/fdf57816-b6e8-4164-95f2-c68bbd4860e5.svg?style=for-the-badge&color=8932b8&label_color=3c44aa" width="200vw"> |
+| [**Hunger Games Classic**](https://namemc.com/server/hg.milkenm.net) | A hunger games server inspired by the long gone brazilian server WinCraft. | `hg.milkenm.net` | **1.19.3** | <img src="https://wakatime.com/badge/user/cbde32e3-2657-4826-9d6b-66b6dbd57bee/project/fdf57816-b6e8-4164-95f2-c68bbd4860e5.svg?style=for-the-badge&color=8932b8&label_color=3c44aa" width="200vw"> |
 | [**Bala de Casca**](https://namemc.com/server/smp.milkenm.net) | An almost vanilla server with teams and claims (*has whitelist*). | `smp.milkenm.net` | **1.21.10** | *No custom plugin* |
 
 ## TO-DO:
